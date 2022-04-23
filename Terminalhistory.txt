@@ -1,0 +1,50 @@
+  520  cd ..
+  521  ls
+  522  cd Module_10
+  523  pwd
+  524  cd ..
+  525  cd ..
+  526  ls
+  527  cd Module_10
+  528  pwd
+  529  git clone https://github.com/Ahmedfadiya/Module_10_Challenge.git
+  530  git status
+  531  ls
+  532  cd Module_10_Challenge/
+  533  ls
+  534  git status
+  535  git add .
+  536  git staus
+  537  git status
+  538  git clean 
+  539  cd .. 
+  540  git status
+  541  cd Module_10_Challenge/
+  542  git status
+  543  git add .
+  544  git status
+  545  git pull
+  546  git status
+  547  pwd
+  548  git add .
+  549  git status
+  550  git add .
+  551  cd ..
+  552  ls
+  553  git status
+  554  cd ..
+  555  cd Module_10
+  556  cd Module_10_Challenge/
+  557  ls
+  558  cd Starter_Code/
+  559  git status
+  560  ls
+  561  ls
+  562  git status
+  563  cd ..
+  564  git status
+  565  git add .
+  566  git status
+  567  git commit -m"plotted elbow curve and scatter plots using unsupervised learning models"
+  568  git push
+  569  history 50 > Terminalhistory.txt
