@@ -9,14 +9,14 @@ I created a Jupyter notebook that clusters cryptocurrencies by their performance
 The CSV file that’s provided for this Challenge contains the price change data of cryptocurrencies in different periods.
 The task are:
 
-Import the Data (provided in the starter code)
-Prepare the Data (provided in the starter code)
-Find the Best Value for k Using the Original Data
-Cluster Cryptocurrencies with K-means Using the Original Data
-Optimize Clusters with Principal Component Analysis
-Find the Best Value for k Using the PCA Data
-Cluster the Cryptocurrencies with K-means Using the PCA Data
-Visualize and Compare the Results
+•Import the Data (provided in the starter code)
+•Prepare the Data (provided in the starter code)
+•Find the Best Value for k Using the Original Data
+•Cluster Cryptocurrencies with K-means Using the Original Data
+•Optimize Clusters with Principal Component Analysis
+•Find the Best Value for k Using the PCA Data
+•Cluster the Cryptocurrencies with K-means Using the PCA Data
+•Visualize and Compare the Results
 
 ---
 
@@ -26,7 +26,7 @@ Python, Pandas Library, Anaconda Jupyter Lab, Pathlib Library, sklearn.cluster, 
 
 
 ## Installation Guide
-- •	Install Python (Refer python installation guide) NumPy, PathLib and pandas
+•	Install Python (Refer python installation guide) NumPy, PathLib and pandas
 •	Install Anaconda
 •	Install Jupiter Lab
 Install required libraries such as sklearn
